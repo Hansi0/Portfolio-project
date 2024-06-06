@@ -1,10 +1,10 @@
 {
-  "name": "Portfolio Project",
+  "name": "Portfolio-project",
   "version": "1.0.0",
   "homepage": "https://Hansi0.github.io/Portfolio-project",
   "private": true,
   "type": "module",
-  "scripts": {
+    "scripts": {
     "dev": "vite",
     "build": "vite build",
     "lint": "eslint . --ext js,jsx --report-unused-disable-directives --max-warnings 0",
